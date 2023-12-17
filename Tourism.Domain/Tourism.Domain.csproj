@@ -6,12 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\" />
-    <Folder Include="Entities\Destination\" />
-    <Folder Include="Entities\Tours\" />
-    <Folder Include="Entities\User\" />
-    <Folder Include="updateDtos\" />
-  </ItemGroup>
-
 </Project>
