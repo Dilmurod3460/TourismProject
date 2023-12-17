@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tourism.Domain.Entities.Tours
 {
-    public class Tours
+    public class Tour
     {
         public int TourId { get; set; } 
         public string Name { get; set; }
